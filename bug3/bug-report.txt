@@ -1,0 +1,11 @@
+*******************************************************
+**  BUG REPORT
+*******************************************************
+
+The "New" button isn't changing to the :hover color when 
+when hovered over
+
+*******************************************************
+*******************************************************
+
+Hint: Inline CSS styles can impact your CSS files! Make sure everything is in the right place. 

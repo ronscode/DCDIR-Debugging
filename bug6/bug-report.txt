@@ -1,0 +1,10 @@
+*******************************************************
+**  BUG REPORT
+*******************************************************
+
+The transaction list isn't showing!
+
+*******************************************************
+*******************************************************
+
+This one is trickier! You'll need to check all your functions to make sure everything is being passed in....
